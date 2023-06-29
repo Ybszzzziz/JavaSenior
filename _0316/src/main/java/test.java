@@ -3,7 +3,7 @@ public class test{
         String str = "qwe";
         int a = 1;
         int c = 1;
-
+        System.out.println("push test");
         System.out.println("hot-fix test");
     }
 
